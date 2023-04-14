@@ -1,0 +1,23 @@
+{
+  "name": "segsat_deploy",
+  "version": "1.0.0",
+  "description": "segsat_deploy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuelbuenofran/segsat_deploy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samuelbuenofran/segsat_deploy/issues"
+  },
+  "homepage": "https://github.com/samuelbuenofran/segsat_deploy#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
